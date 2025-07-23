@@ -1,6 +1,6 @@
-# 🎬 Textulayze
+# 🎬 Textualyze
 
-**Textulayze** revolutionized video accessibility by providing an automated subtitling platform that served **1,600+ users globally**. This complete full-stack solution, combined cutting-edge AI technology with intuitive design to deliver professional-grade subtitle generation and styling capabilities.
+**Textualyze** revolutionized video accessibility by providing an automated subtitling platform that served **1,600+ users globally**. This complete full-stack solution, combined cutting-edge AI technology with intuitive design to deliver professional-grade subtitle generation and styling capabilities.
 
 ## 🏆 Notable Achievements
 
